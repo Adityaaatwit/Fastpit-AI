@@ -1,4 +1,4 @@
-# Fast Pit AI — Vision-Only AI Race Engineer
+# Fast Pit AI : Vision-Only AI Race Engineer
 
 **Vision-only AI race engineer. No sensors. No hardware. Just video.**
 
