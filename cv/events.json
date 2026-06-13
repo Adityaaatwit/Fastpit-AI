@@ -1,0 +1,91 @@
+{
+  "video_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\video.mp4",
+  "sport": "karting",
+  "fps": 3,
+  "events": [
+    {
+      "frame": 25,
+      "timestamp": 8.3,
+      "type": "late_braking",
+      "speed_delta": -261.04,
+      "centroid": [
+        1184.1,
+        437.5
+      ],
+      "image_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0026.jpg",
+      "lean_angle": null
+    },
+    {
+      "frame": 29,
+      "timestamp": 9.7,
+      "type": "early_braking",
+      "speed_delta": 53.6,
+      "centroid": [
+        1455.5,
+        287.5
+      ],
+      "image_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0030.jpg",
+      "lean_angle": null
+    },
+    {
+      "frame": 47,
+      "timestamp": 15.7,
+      "type": "early_braking",
+      "speed_delta": 180.8,
+      "centroid": [
+        845.4,
+        385.4
+      ],
+      "image_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0048.jpg",
+      "lean_angle": null
+    },
+    {
+      "frame": 61,
+      "timestamp": 20.3,
+      "type": "early_braking",
+      "speed_delta": 262.14,
+      "centroid": [
+        1601.4,
+        326.7
+      ],
+      "image_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0062.jpg",
+      "lean_angle": null
+    },
+    {
+      "frame": 62,
+      "timestamp": 20.7,
+      "type": "late_braking",
+      "speed_delta": -191.3,
+      "centroid": [
+        362.6,
+        386.0
+      ],
+      "image_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0063.jpg",
+      "lean_angle": null
+    },
+    {
+      "frame": 68,
+      "timestamp": 22.7,
+      "type": "wide_exit",
+      "speed_delta": 0.0,
+      "centroid": [
+        34.4,
+        354.8
+      ],
+      "image_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0069.jpg",
+      "lean_angle": null
+    },
+    {
+      "frame": 73,
+      "timestamp": 24.3,
+      "type": "late_braking",
+      "speed_delta": -308.12,
+      "centroid": [
+        1367.0,
+        458.7
+      ],
+      "image_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0074.jpg",
+      "lean_angle": null
+    }
+  ]
+}

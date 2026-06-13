@@ -1,0 +1,18 @@
+[server]
+port = 8502
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8502
+
+[theme]
+base = "dark"
+primaryColor = "#39ff14"
+backgroundColor = "#050505"
+secondaryBackgroundColor = "#0d0d0d"
+textColor = "#c8ffc8"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"

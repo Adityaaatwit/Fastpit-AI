@@ -1,0 +1,1303 @@
+[
+  {
+    "frame_idx": 0,
+    "timestamp": 0.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0001.jpg",
+    "boxes": [
+      {
+        "id": 2,
+        "class": "car",
+        "bbox": [
+          1176.516357421875,
+          290.6231689453125,
+          1223.4266357421875,
+          317.1206970214844
+        ],
+        "conf": 0.519
+      },
+      {
+        "id": 4,
+        "class": "car",
+        "bbox": [
+          1259.079345703125,
+          292.17474365234375,
+          1309.682373046875,
+          320.7135925292969
+        ],
+        "conf": 0.434
+      },
+      {
+        "id": 5,
+        "class": "car",
+        "bbox": [
+          1094.24365234375,
+          289.771240234375,
+          1142.5306396484375,
+          311.2498474121094
+        ],
+        "conf": 0.365
+      },
+      {
+        "id": 6,
+        "class": "car",
+        "bbox": [
+          1257.7803955078125,
+          290.7795715332031,
+          1336.1129150390625,
+          321.1780700683594
+        ],
+        "conf": 0.267
+      },
+      {
+        "id": 7,
+        "class": "car",
+        "bbox": [
+          1345.5433349609375,
+          297.24810791015625,
+          1402.34033203125,
+          323.3255310058594
+        ],
+        "conf": 0.266
+      }
+    ]
+  },
+  {
+    "frame_idx": 1,
+    "timestamp": 0.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0002.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 2,
+    "timestamp": 0.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0003.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 3,
+    "timestamp": 1.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0004.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 4,
+    "timestamp": 1.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0005.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 5,
+    "timestamp": 1.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0006.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1025.6329345703125,
+          331.8962707519531,
+          1347.4149169921875,
+          478.1482238769531
+        ],
+        "conf": 0.139
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          613.7064819335938,
+          276.88873291015625,
+          666.7637939453125,
+          304.0871887207031
+        ],
+        "conf": 0.125
+      }
+    ]
+  },
+  {
+    "frame_idx": 6,
+    "timestamp": 2.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0007.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 7,
+    "timestamp": 2.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0008.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 8,
+    "timestamp": 2.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0009.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 9,
+    "timestamp": 3.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0010.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 10,
+    "timestamp": 3.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0011.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 11,
+    "timestamp": 3.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0012.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 12,
+    "timestamp": 4.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0013.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 13,
+    "timestamp": 4.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0014.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 14,
+    "timestamp": 4.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0015.jpg",
+    "boxes": [
+      {
+        "id": 28,
+        "class": "car",
+        "bbox": [
+          1009.9154663085938,
+          306.3899230957031,
+          1242.53759765625,
+          413.74981689453125
+        ],
+        "conf": 0.519
+      }
+    ]
+  },
+  {
+    "frame_idx": 15,
+    "timestamp": 5.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0016.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 16,
+    "timestamp": 5.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0017.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 17,
+    "timestamp": 5.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0018.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 18,
+    "timestamp": 6.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0019.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1078.6390380859375,
+          384.31353759765625,
+          1411.9796142578125,
+          523.731689453125
+        ],
+        "conf": 0.264
+      }
+    ]
+  },
+  {
+    "frame_idx": 19,
+    "timestamp": 6.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0020.jpg",
+    "boxes": [
+      {
+        "id": 30,
+        "class": "car",
+        "bbox": [
+          692.6416625976562,
+          601.3556518554688,
+          1666.4666748046875,
+          1051.4105224609375
+        ],
+        "conf": 0.291
+      }
+    ]
+  },
+  {
+    "frame_idx": 20,
+    "timestamp": 6.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0021.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 21,
+    "timestamp": 7.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0022.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1776.0323486328125,
+          303.08447265625,
+          1881.0225830078125,
+          375.178955078125
+        ],
+        "conf": 0.206
+      }
+    ]
+  },
+  {
+    "frame_idx": 22,
+    "timestamp": 7.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0023.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1083.644775390625,
+          343.8334045410156,
+          1541.4210205078125,
+          566.8399658203125
+        ],
+        "conf": 0.327
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          601.3046875,
+          554.5270385742188,
+          1655.15283203125,
+          1049.34716796875
+        ],
+        "conf": 0.11
+      }
+    ]
+  },
+  {
+    "frame_idx": 23,
+    "timestamp": 7.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0024.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1705.2947998046875,
+          316.6839904785156,
+          1756.083740234375,
+          343.3368225097656
+        ],
+        "conf": 0.111
+      }
+    ]
+  },
+  {
+    "frame_idx": 24,
+    "timestamp": 8.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0025.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 25,
+    "timestamp": 8.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0026.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          998.985595703125,
+          375.9925842285156,
+          1369.2415771484375,
+          499.09033203125
+        ],
+        "conf": 0.149
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          988.6871948242188,
+          317.51654052734375,
+          1371.090087890625,
+          497.49420166015625
+        ],
+        "conf": 0.107
+      }
+    ]
+  },
+  {
+    "frame_idx": 26,
+    "timestamp": 8.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0027.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1672.643798828125,
+          267.4339294433594,
+          1785.5994873046875,
+          302.99359130859375
+        ],
+        "conf": 0.159
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          967.2906494140625,
+          366.6159362792969,
+          1309.6007080078125,
+          490.190673828125
+        ],
+        "conf": 0.133
+      }
+    ]
+  },
+  {
+    "frame_idx": 27,
+    "timestamp": 9.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0028.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 28,
+    "timestamp": 9.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0029.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 29,
+    "timestamp": 9.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0030.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1431.7608642578125,
+          268.0528259277344,
+          1479.2874755859375,
+          306.98309326171875
+        ],
+        "conf": 0.127
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1136.7132568359375,
+          289.95526123046875,
+          1175.43896484375,
+          312.36126708984375
+        ],
+        "conf": 0.115
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1277.948974609375,
+          281.8517761230469,
+          1326.3515625,
+          310.1800537109375
+        ],
+        "conf": 0.11
+      }
+    ]
+  },
+  {
+    "frame_idx": 30,
+    "timestamp": 10.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0031.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 31,
+    "timestamp": 10.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0032.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 32,
+    "timestamp": 10.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0033.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 33,
+    "timestamp": 11.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0034.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 34,
+    "timestamp": 11.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0035.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 35,
+    "timestamp": 11.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0036.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          742.8938598632812,
+          271.26708984375,
+          797.9613647460938,
+          298.0147399902344
+        ],
+        "conf": 0.132
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          760.1957397460938,
+          272.6879577636719,
+          799.5294799804688,
+          297.5671691894531
+        ],
+        "conf": 0.11
+      }
+    ]
+  },
+  {
+    "frame_idx": 36,
+    "timestamp": 12.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0037.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 37,
+    "timestamp": 12.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0038.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 38,
+    "timestamp": 12.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0039.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 39,
+    "timestamp": 13.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0040.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 40,
+    "timestamp": 13.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0041.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 41,
+    "timestamp": 13.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0042.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 42,
+    "timestamp": 14.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0043.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 43,
+    "timestamp": 14.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0044.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 44,
+    "timestamp": 14.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0045.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          4.032949447631836,
+          293.5621032714844,
+          1685.49755859375,
+          1046.6065673828125
+        ],
+        "conf": 0.191
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1.9287083148956299,
+          298.0616455078125,
+          1129.5985107421875,
+          1045.1278076171875
+        ],
+        "conf": 0.106
+      }
+    ]
+  },
+  {
+    "frame_idx": 45,
+    "timestamp": 15.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0046.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 46,
+    "timestamp": 15.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0047.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 47,
+    "timestamp": 15.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0048.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          727.260009765625,
+          331.86767578125,
+          963.5640869140625,
+          438.8797607421875
+        ],
+        "conf": 0.216
+      }
+    ]
+  },
+  {
+    "frame_idx": 48,
+    "timestamp": 16.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0049.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 49,
+    "timestamp": 16.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0050.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 50,
+    "timestamp": 16.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0051.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 51,
+    "timestamp": 17.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0052.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 52,
+    "timestamp": 17.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0053.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 53,
+    "timestamp": 17.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0054.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 54,
+    "timestamp": 18.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0055.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 55,
+    "timestamp": 18.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0056.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 56,
+    "timestamp": 18.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0057.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 57,
+    "timestamp": 19.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0058.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 58,
+    "timestamp": 19.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0059.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 59,
+    "timestamp": 19.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0060.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 60,
+    "timestamp": 20.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0061.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 61,
+    "timestamp": 20.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0062.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1545.9193115234375,
+          299.4148864746094,
+          1656.83203125,
+          353.91473388671875
+        ],
+        "conf": 0.52
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1492.021240234375,
+          311.46844482421875,
+          1550.662841796875,
+          351.4909973144531
+        ],
+        "conf": 0.17
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1544.579833984375,
+          299.9119873046875,
+          1654.087646484375,
+          352.9591979980469
+        ],
+        "conf": 0.164
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          334.98486328125,
+          611.950927734375,
+          1405.031005859375,
+          1048.6597900390625
+        ],
+        "conf": 0.131
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          497.989501953125,
+          351.4505615234375,
+          550.5458374023438,
+          387.9895935058594
+        ],
+        "conf": 0.124
+      }
+    ]
+  },
+  {
+    "frame_idx": 62,
+    "timestamp": 20.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0063.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          314.5606384277344,
+          365.7735290527344,
+          410.55242919921875,
+          406.1609191894531
+        ],
+        "conf": 0.312
+      }
+    ]
+  },
+  {
+    "frame_idx": 63,
+    "timestamp": 21.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0064.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 64,
+    "timestamp": 21.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0065.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1507.7589111328125,
+          303.32672119140625,
+          1556.67041015625,
+          334.6878662109375
+        ],
+        "conf": 0.107
+      }
+    ]
+  },
+  {
+    "frame_idx": 65,
+    "timestamp": 21.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0066.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 66,
+    "timestamp": 22.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0067.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          704.8883056640625,
+          325.8835144042969,
+          748.0489501953125,
+          365.9277038574219
+        ],
+        "conf": 0.331
+      },
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          949.5923461914062,
+          417.1324462890625,
+          1314.819580078125,
+          539.8602905273438
+        ],
+        "conf": 0.206
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          751.34033203125,
+          320.5162048339844,
+          775.8807983398438,
+          339.823486328125
+        ],
+        "conf": 0.123
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          455.0220642089844,
+          568.6555786132812,
+          1631.741455078125,
+          1049.705322265625
+        ],
+        "conf": 0.112
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          955.1815795898438,
+          408.3553466796875,
+          1316.5284423828125,
+          539.3219604492188
+        ],
+        "conf": 0.108
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          679.611083984375,
+          324.733154296875,
+          745.061767578125,
+          369.6045837402344
+        ],
+        "conf": 0.108
+      }
+    ]
+  },
+  {
+    "frame_idx": 67,
+    "timestamp": 22.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0068.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 68,
+    "timestamp": 22.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0069.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          360.7795104980469,
+          319.7343444824219,
+          435.219482421875,
+          351.9199523925781
+        ],
+        "conf": 0.374
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          546.9955444335938,
+          315.943603515625,
+          616.1768798828125,
+          343.2696533203125
+        ],
+        "conf": 0.161
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          567.4373779296875,
+          316.4311218261719,
+          627.4668579101562,
+          342.75677490234375
+        ],
+        "conf": 0.151
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          701.1532592773438,
+          315.0869140625,
+          740.7822875976562,
+          335.48663330078125
+        ],
+        "conf": 0.125
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          0.0,
+          336.3950500488281,
+          68.76554870605469,
+          373.1503601074219
+        ],
+        "conf": 0.122
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          957.5686645507812,
+          311.2094421386719,
+          1025.16650390625,
+          341.38458251953125
+        ],
+        "conf": 0.111
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          884.2745361328125,
+          308.1888732910156,
+          945.8262939453125,
+          337.76104736328125
+        ],
+        "conf": 0.108
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          560.6629028320312,
+          312.01593017578125,
+          622.6488037109375,
+          342.09259033203125
+        ],
+        "conf": 0.104
+      }
+    ]
+  },
+  {
+    "frame_idx": 69,
+    "timestamp": 23.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0070.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          982.0874633789062,
+          299.8270263671875,
+          1026.372802734375,
+          330.16058349609375
+        ],
+        "conf": 0.268
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1144.0174560546875,
+          361.4128723144531,
+          1539.4022216796875,
+          516.1741943359375
+        ],
+        "conf": 0.206
+      },
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1146.73681640625,
+          343.065673828125,
+          1537.9139404296875,
+          518.5191040039062
+        ],
+        "conf": 0.206
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          971.4558715820312,
+          298.53826904296875,
+          1024.83544921875,
+          332.41668701171875
+        ],
+        "conf": 0.164
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          145.9398651123047,
+          321.8984375,
+          205.41941833496094,
+          350.9925537109375
+        ],
+        "conf": 0.151
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          499.24114990234375,
+          316.09381103515625,
+          539.9153442382812,
+          345.6888732910156
+        ],
+        "conf": 0.133
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          855.392578125,
+          297.1868591308594,
+          908.2354736328125,
+          337.7215576171875
+        ],
+        "conf": 0.132
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          280.9256896972656,
+          319.881103515625,
+          364.07073974609375,
+          359.5191345214844
+        ],
+        "conf": 0.109
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          927.5349731445312,
+          300.4884948730469,
+          963.4140625,
+          336.1788024902344
+        ],
+        "conf": 0.105
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          1145.780029296875,
+          409.98211669921875,
+          1537.877685546875,
+          516.815185546875
+        ],
+        "conf": 0.105
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          889.6752319335938,
+          291.7524108886719,
+          958.9701538085938,
+          339.1292419433594
+        ],
+        "conf": 0.1
+      }
+    ]
+  },
+  {
+    "frame_idx": 70,
+    "timestamp": 23.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0071.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1200.9046630859375,
+          295.91497802734375,
+          1726.0787353515625,
+          558.1642456054688
+        ],
+        "conf": 0.331
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          173.85128784179688,
+          322.2228698730469,
+          301.3521728515625,
+          379.04656982421875
+        ],
+        "conf": 0.247
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          870.2409057617188,
+          577.1839599609375,
+          1538.054443359375,
+          1048.4295654296875
+        ],
+        "conf": 0.177
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          158.7310028076172,
+          327.21014404296875,
+          280.8652648925781,
+          378.5265197753906
+        ],
+        "conf": 0.12
+      }
+    ]
+  },
+  {
+    "frame_idx": 71,
+    "timestamp": 23.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0072.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 72,
+    "timestamp": 24.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0073.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 73,
+    "timestamp": 24.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0074.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "truck",
+        "bbox": [
+          1104.452392578125,
+          339.204833984375,
+          1629.5341796875,
+          578.2322998046875
+        ],
+        "conf": 0.153
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          936.8089599609375,
+          302.85516357421875,
+          1002.5928955078125,
+          338.0894470214844
+        ],
+        "conf": 0.127
+      }
+    ]
+  },
+  {
+    "frame_idx": 74,
+    "timestamp": 24.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0075.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          310.1511535644531,
+          594.4345092773438,
+          1318.3033447265625,
+          1052.3311767578125
+        ],
+        "conf": 0.295
+      },
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          38.42485809326172,
+          388.2433776855469,
+          128.7871856689453,
+          426.9579772949219
+        ],
+        "conf": 0.165
+      }
+    ]
+  },
+  {
+    "frame_idx": 75,
+    "timestamp": 25.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0076.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 76,
+    "timestamp": 25.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0077.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 77,
+    "timestamp": 25.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0078.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 78,
+    "timestamp": 26.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0079.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 79,
+    "timestamp": 26.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0080.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 80,
+    "timestamp": 26.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0081.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 81,
+    "timestamp": 27.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0082.jpg",
+    "boxes": [
+      {
+        "id": -1,
+        "class": "car",
+        "bbox": [
+          0.0,
+          423.68243408203125,
+          342.7237548828125,
+          777.875732421875
+        ],
+        "conf": 0.447
+      }
+    ]
+  },
+  {
+    "frame_idx": 82,
+    "timestamp": 27.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0083.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 83,
+    "timestamp": 27.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0084.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 84,
+    "timestamp": 28.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0085.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 85,
+    "timestamp": 28.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0086.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 86,
+    "timestamp": 28.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0087.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 87,
+    "timestamp": 29.0,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0088.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 88,
+    "timestamp": 29.3,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0089.jpg",
+    "boxes": []
+  },
+  {
+    "frame_idx": 89,
+    "timestamp": 29.7,
+    "frame_path": "c:\\Users\\gullu\\fastpit-ai\\cv\\frames\\frame_0090.jpg",
+    "boxes": []
+  }
+]

@@ -1,0 +1,17 @@
+CV pass (karting) — 7 flagged moment(s):
+- t=8.3s: late_braking (speed delta -261.04)
+- t=9.7s: early_braking (speed delta 53.6)
+- t=15.7s: early_braking (speed delta 180.8)
+- t=20.3s: early_braking (speed delta 262.14)
+- t=20.7s: late_braking (speed delta -191.3)
+- t=22.7s: wide_exit (speed delta 0.0)
+- t=24.3s: late_braking (speed delta -308.12)
+
+Driver context:
+Driver / session context provided by the user:
+- Sport: karting
+- Experience level: Beginner
+- Track / venue type: Outdoor kart circuit
+- Session goal: Find lap time
+- Camera angle: Onboard / helmet
+- Primary focus: Braking points
